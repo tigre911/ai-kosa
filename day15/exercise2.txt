@@ -1,0 +1,4 @@
+실습 #3: 
+
+1)https://huggingface.co/datasets/lambdalabs/naruto-blip-captions 의 BLIP dataset을 학습한 LoRA를 만들고, 
+2) 해당 LoRA로 나루토 스타일 AI 프로파일을 생성해주는 서비스를 작성하시오. 인터페이스는 Streamlit이나 gradio로 작성하시오.

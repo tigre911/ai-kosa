@@ -1,0 +1,1 @@
+실습과제: sklearn의 load_linnerud, fetch_california_housing을 pytorch로 regression하고 score를 측정한다.

@@ -1,0 +1,3 @@
+실습과제: kaggle의 breast-cancer-wisconsin-data, pima-indians-diabetes-database에 대해 pytorch로 학습시키고  score를 측정한다.
+# 추가과제: kaggle의 bike-sharing-demand 에 대해 pytorch로 학습시키고  score를 측정한다.
+# 추가과제: kaggle의 house-prices-advaced-regression-techniques 데이터셋을 가져와서 pytorch로 학습시키고  score를 측정한다.
